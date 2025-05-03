@@ -1,0 +1,54 @@
+site_name: Demo Docs
+site_description: >-
+  A developer-friendly documentation site with MkDocs Material and dark-green style.
+site_url: https://DocsWithKamil.github.io/demo-docs-v2
+repo_url: https://github.com/DocsWithKamil/demo-docs-v2
+repo_name: GitHub
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: green
+      accent: green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+    - content.code.copy
+    - content.code.annotate
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Project Structure: getting-started/structure.md
+  - Usage:
+      - Editing Content: usage/editing.md
+      - Deploying: usage/deploy.md
+  - Advanced:
+      - Customization: advanced/customization.md
+      - Versioning: advanced/versioning.md
+  - About: about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
