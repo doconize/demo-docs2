@@ -1,8 +1,8 @@
 site_name: Demo Docs
 site_description: >-
   A developer-friendly documentation site with MkDocs Material and dark-green style.
-site_url: https://DocsWithKamil.github.io/demo-docs-v2
-repo_url: https://github.com/Doconize/demo-docs-v2
+site_url: https://doconize.github.io/demo-docs2/
+repo_url: https://github.com/doconize/demo-docs2
 repo_name: GitHub
 
 theme:
