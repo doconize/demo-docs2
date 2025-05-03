@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/</loc>
+         <loc>https://doconize.github.io/demo-docs2/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/about/</loc>
+         <loc>https://doconize.github.io/demo-docs2/about/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/advanced/customization/</loc>
+         <loc>https://doconize.github.io/demo-docs2/advanced/customization/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/advanced/versioning/</loc>
+         <loc>https://doconize.github.io/demo-docs2/advanced/versioning/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/getting-started/installation/</loc>
+         <loc>https://doconize.github.io/demo-docs2/getting-started/installation/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/getting-started/structure/</loc>
+         <loc>https://doconize.github.io/demo-docs2/getting-started/structure/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/usage/deploy/</loc>
+         <loc>https://doconize.github.io/demo-docs2/usage/deploy/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
     <url>
-         <loc>https://DocsWithKamil.github.io/demo-docs-v2/usage/editing/</loc>
+         <loc>https://doconize.github.io/demo-docs2/usage/editing/</loc>
          <lastmod>2025-05-03</lastmod>
     </url>
 </urlset>
